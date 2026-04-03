@@ -1,4 +1,4 @@
-# Create-Dungeons
+# Create & Dungeons
 <p>If you like Create you're probably gonna like this modpack. I made this modpack because I wanted a more vanilla-like experience than what the big modpacks offered. After having played with unbalanced tech mods for years I was introduced to Create and it was love at first sight.</p>
 <p>Performance and RAM usage were my main focus when making this pack. While I recommend 6 GB of RAM you can definitely run this with less, especially in Multiplayer.</p>
 <p>Aside from Create and it's addons, there are quite a few furniture mods + other mods to make building more enjoyable. If exploration is more your thing I also added a bit too many structure mods lol.</p>
