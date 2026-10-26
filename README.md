@@ -220,5 +220,5 @@
 	<li><a href="https://www.curseforge.com/projects/361579">spark</a></li>
   </ul>
 </div>
-<p><img src="https://imgur.com/69bVyXN.png" alt="dungeons_arise_seven_seas:victory_frigate" /> <a href="https://createmod.com/schematics/living-train-2" rel="nofollow"><img src="https://imgur.com/bXmBeFR.png" /></a> <img src="https://imgur.com/1r5cujO.png" alt="The End" /> <img src="https://imgur.com/edGdRES.png" alt="betterfortresses:fortress" /></p>
+<p><img src="https://imgur.com/69bVyXN.png" alt="dungeons_arise_seven_seas:victory_frigate" /> <a href="https://createmod.com/schematics/living-train-2" rel="nofollow"><img src="https://imgur.com/pZ1m7l0.png" /></a> <img src="https://imgur.com/1r5cujO.png" alt="The End" /> <img src="https://imgur.com/edGdRES.png" alt="betterfortresses:fortress" /></p>
 <p>This modpack is inspired by&nbsp;<a href="https://modrinth.com/modpack/create_plus" target="_blank" rel="nofollow noopener noreferrer">Create+</a> by StormDragon_64</p>
