@@ -5,7 +5,8 @@
 <p>Included mods:</p>
 <div class="spoiler">
   <ul>
-	<li><a href="https://www.curseforge.com/projects/1090999">Addons Lib</a></li>
+	<li><a href="https://www.curseforge.com/projects/1090999">AddonsLib</a></li>
+	<li><a href="https://www.curseforge.com/projects/564792">Alloyed</a></li>
 	<li><a href="https://www.curseforge.com/projects/313970">Apotheosis</a></li>
 	<li><a href="https://www.curseforge.com/projects/898963">Apothic Attributes</a></li>
 	<li><a href="https://www.curseforge.com/projects/1063926">Apothic Enchanting</a></li>
@@ -23,12 +24,11 @@
 	<li><a href="https://www.curseforge.com/projects/228525">Bookshelf</a></li>
 	<li><a href="https://www.curseforge.com/projects/637808">Brewin' And Chewin'</a></li>
 	<li><a href="https://www.curseforge.com/projects/308989">Caelus API</a></li>
-	<li><a href="https://www.curseforge.com/projects/274259">Carry On</a></li>
+	<li><a href="https://www.curseforge.com/projects/485681">Chunky</a></li>
 	<li><a href="https://www.curseforge.com/projects/348521">Cloth Config v15 API</a></li>
 	<li><a href="https://www.curseforge.com/projects/256717">Clumps</a></li>
 	<li><a href="https://www.curseforge.com/projects/342584">Collective</a></li>
 	<li><a href="https://www.curseforge.com/projects/854213">Colorful Hearts</a></li>
-	<li><a href="https://www.curseforge.com/projects/1254143">Colorwheel</a></li>
 	<li><a href="https://www.curseforge.com/projects/559989">Companion</a></li>
 	<li><a href="https://www.curseforge.com/projects/470193">Connectivity Mod</a></li>
 	<li><a href="https://www.curseforge.com/projects/250398">Controlling</a></li>
@@ -39,6 +39,7 @@
 	<li><a href="https://www.curseforge.com/projects/1154099">Crash Assistant</a></li>
 	<li><a href="https://www.curseforge.com/projects/371813">Crash Utilities</a></li>
 	<li><a href="https://www.curseforge.com/projects/328085">Create</a></li>
+	<li><a href="https://www.curseforge.com/projects/676721">Create Aeronautics</a></li>
 	<li><a href="https://www.curseforge.com/projects/1005676">Create Aquatic Ambitions</a></li>
 	<li><a href="https://www.curseforge.com/projects/646668">Create Big Cannons</a></li>
 	<li><a href="https://www.curseforge.com/projects/945214">Create Compression</a></li>
@@ -48,7 +49,6 @@
 	<li><a href="https://www.curseforge.com/projects/1281336">Create Hypertube</a></li>
 	<li><a href="https://www.curseforge.com/projects/655608">Create Jetpack</a></li>
 	<li><a href="https://www.curseforge.com/projects/659674">Create Slice &amp; Dice</a></li>
-	<li><a href="https://www.curseforge.com/projects/564792">Create: Alloyed</a></li>
 	<li><a href="https://www.curseforge.com/projects/905040">Create: Bells &amp; Whistles</a></li>
 	<li><a href="https://www.curseforge.com/projects/820977">Create: Central Kitchen</a></li>
 	<li><a href="https://www.curseforge.com/projects/1247573">Create: Compatible Storage</a></li>
@@ -56,6 +56,7 @@
 	<li><a href="https://www.curseforge.com/projects/968398">Create: Copycats+</a></li>
 	<li><a href="https://www.curseforge.com/projects/1216624">Create: Dragons Plus</a></li>
 	<li><a href="https://www.curseforge.com/projects/864781">Create: Dreams n' Desires</a></li>
+	<li><a href="https://www.curseforge.com/projects/1061749">Create: Enchantable Machinery</a></li>
 	<li><a href="https://www.curseforge.com/projects/688768">Create: Enchantment Industry</a></li>
 	<li><a href="https://www.curseforge.com/projects/623265">Create: Factory</a></li>
 	<li><a href="https://www.curseforge.com/projects/953126">Create: Framed</a></li>
@@ -64,8 +65,8 @@
 	<li><a href="https://www.curseforge.com/projects/1072349">Create: Pattern Schematics</a></li>
 	<li><a href="https://www.curseforge.com/projects/936020">Create: Power Loader</a></li>
 	<li><a href="https://www.curseforge.com/projects/1414670">Create: Steam 'n' Rails 1.21.1</a></li>
+	<li><a href="https://www.curseforge.com/projects/1653026">Create: The Factory Must Grow</a></li>
 	<li><a href="https://www.curseforge.com/projects/1102591">Create: Trading Floor</a></li>
-	<li><a href="https://www.curseforge.com/projects/1086710">Create: Waystones Recipes</a></li>
 	<li><a href="https://www.curseforge.com/projects/574913">Critters and Companions</a></li>
 	<li><a href="https://www.curseforge.com/projects/326652">Cupboard mod</a></li>
 	<li><a href="https://www.curseforge.com/projects/309927">Curios API</a></li>
@@ -73,12 +74,13 @@
 	<li><a href="https://www.curseforge.com/projects/1290628">Detail Armor Bar Reconstructed</a></li>
 	<li><a href="https://www.curseforge.com/projects/1258923">Dungeon's Delight</a></li>
 	<li><a href="https://www.curseforge.com/projects/853794">Dungeons and Taverns</a></li>
+	<li><a href="https://www.curseforge.com/projects/843344">Dusty Decorations</a></li>
 	<li><a href="https://www.curseforge.com/projects/509276">Dyenamics</a></li>
 	<li><a href="https://www.curseforge.com/projects/709617">Dyenamics and Friends</a></li>
 	<li><a href="https://www.curseforge.com/projects/335493">Dynamic FPS</a></li>
 	<li><a href="https://www.curseforge.com/projects/580555">EMI</a></li>
 	<li><a href="https://www.curseforge.com/projects/681783">EMI Loot</a></li>
-	<li><a href="https://www.curseforge.com/projects/908741">Embeddium</a></li>
+	<li><a href="https://www.curseforge.com/projects/388364">Easier Sleeping</a></li>
 	<li><a href="https://www.curseforge.com/projects/250419">EnchantmentDescriptions</a></li>
 	<li><a href="https://www.curseforge.com/projects/662675">End's Delight</a></li>
 	<li><a href="https://www.curseforge.com/projects/844662">Entity Model Features</a></li>
@@ -107,6 +109,7 @@
 	<li><a href="https://www.curseforge.com/projects/257356">InControl</a></li>
 	<li><a href="https://www.curseforge.com/projects/976858">Inventory Tweaks Refoxed</a></li>
 	<li><a href="https://www.curseforge.com/projects/455508">Iris</a></li>
+	<li><a href="https://www.curseforge.com/projects/659897">Iris Flywheel Compat</a></li>
 	<li><a href="https://www.curseforge.com/projects/324717">Jade</a></li>
 	<li><a href="https://www.curseforge.com/projects/583345">Jade Addons</a></li>
 	<li><a href="https://www.curseforge.com/projects/1072905">Jupiter</a></li>
@@ -133,11 +136,11 @@
 	<li><a href="https://www.curseforge.com/projects/400933">Macaw's Trapdoors</a></li>
 	<li><a href="https://www.curseforge.com/projects/363569">Macaw's Windows</a></li>
 	<li><a href="https://www.curseforge.com/projects/593981">Magnum Torch</a></li>
+	<li><a href="https://www.curseforge.com/projects/1689768">MezzConfig</a></li>
 	<li><a href="https://www.curseforge.com/projects/689630">Miners Delight</a></li>
 	<li><a href="https://www.curseforge.com/projects/378266">Mo' Structures</a></li>
 	<li><a href="https://www.curseforge.com/projects/676136">Model Gap Fix</a></li>
 	<li><a href="https://www.curseforge.com/projects/790626">ModernFix</a></li>
-	<li><a href="https://www.curseforge.com/projects/1007288">Monocle</a></li>
 	<li><a href="https://www.curseforge.com/projects/499980">Moonlight Lib</a></li>
 	<li><a href="https://www.curseforge.com/projects/60089">Mouse Tweaks</a></li>
 	<li><a href="https://www.curseforge.com/projects/897116">MrCrayfish's Furniture Mod: Refurbished</a></li>
@@ -169,10 +172,12 @@
 	<li><a href="https://www.curseforge.com/projects/416294">Rhino</a></li>
 	<li><a href="https://www.curseforge.com/projects/1279407">Ritchie's Projectile Library</a></li>
 	<li><a href="https://www.curseforge.com/projects/880879">RunicLib</a></li>
+	<li><a href="https://www.curseforge.com/projects/1312371">Sable</a></li>
 	<li><a href="https://www.curseforge.com/projects/670986">Saturn</a></li>
 	<li><a href="https://www.curseforge.com/projects/858542">Searchables</a></li>
 	<li><a href="https://www.curseforge.com/projects/416089">Simple Voice Chat</a></li>
 	<li><a href="https://www.curseforge.com/projects/491290">Smarter Farmers</a></li>
+	<li><a href="https://www.curseforge.com/projects/394468">Sodium</a></li>
 	<li><a href="https://www.curseforge.com/projects/422301">Sophisticated Backpacks</a></li>
 	<li><a href="https://www.curseforge.com/projects/1238567">Sophisticated Backpacks Create Integration</a></li>
 	<li><a href="https://www.curseforge.com/projects/618298">Sophisticated Core</a></li>
